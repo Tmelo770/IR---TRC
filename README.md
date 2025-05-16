@@ -1,1 +1,2 @@
 # IR - TRC
+The new energy minerals international trade networks dataset used in this article is sourced from the United Nations Comtrade Database (https://comtradeplus.un.org/). The feature data include countries' population, GDP, and high-tech levels are from the World Bank (https://data.worldbank.org.cn/); political risk data are from the PRS Group (https://www.prsgroup.com/); and the resource reserves and production datasets are from USGS (https://www.usgs.gov/).
